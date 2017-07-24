@@ -17,15 +17,11 @@
  *
  * @package WordPress
  */
-if(file_exists( ABSPATH . 'wp-config-local.php')){
-    require_once(ABSPATH . 'wp-config-local.php');
-    return;
-}
 
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'localtel123123lsblog');
+define('DB_NAME', 'localtellsblog');
 
 /** MySQL database username */
 define('DB_USER', 'root');
