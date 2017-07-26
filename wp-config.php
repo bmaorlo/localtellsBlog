@@ -31,7 +31,7 @@ define('DB_NAME', 'localtel123123lsblog');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'bolo333');
+define('DB_PASSWORD', 'XXXX');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
