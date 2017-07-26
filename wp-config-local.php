@@ -23,7 +23,7 @@ define('DB_NAME', 'localtellsblog');
 /** MySQL database username */
 define('DB_USER', 'root');
 /** MySQL database password */
-define('DB_PASSWORD', 'bolo333');
+define('DB_PASSWORD', 'XXXXX');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 /** Database Charset to use in creating database tables. */
